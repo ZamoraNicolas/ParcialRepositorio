@@ -1,0 +1,17 @@
+public class recursividad{    
+    public static void main(String[] args) {
+    
+    
+    int base =5;
+    int potencia =3;
+    int suma;
+    int Suma;
+    
+   suma = (5*5*5);
+   
+   Suma= suma/potencia
+   
+    System.out.print(suma);
+        
+    }
+    }
